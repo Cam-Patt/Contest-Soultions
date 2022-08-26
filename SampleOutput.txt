@@ -1,0 +1,5 @@
+1 5 4 3 2 - Minimum value: -1, Maximum value: 23
+46 28 11 10 5 - Minimum value: -5, Maximum value: 1299
+30 20 6 100 50 - Minimum value: -14, Maximum value: 5030
+44 9 7 21 3 - Minimum value: -4, Maximum value: 933
+57 54 56 8 58 - Minimum value: -46, Maximum value: 3362
